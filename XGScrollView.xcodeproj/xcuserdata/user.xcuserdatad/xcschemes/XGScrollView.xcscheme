@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE3A323A1CAA723500C6A673"
+               BlueprintIdentifier = "CEF9F0C71D3342FB00D1144B"
                BuildableName = "XGScrollView.app"
                BlueprintName = "XGScrollView"
                ReferencedContainer = "container:XGScrollView.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE3A32531CAA723500C6A673"
+               BlueprintIdentifier = "CEF9F0E01D3342FB00D1144B"
                BuildableName = "XGScrollViewTests.xctest"
                BlueprintName = "XGScrollViewTests"
                ReferencedContainer = "container:XGScrollView.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CE3A325E1CAA723500C6A673"
+               BlueprintIdentifier = "CEF9F0EB1D3342FB00D1144B"
                BuildableName = "XGScrollViewUITests.xctest"
                BlueprintName = "XGScrollViewUITests"
                ReferencedContainer = "container:XGScrollView.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE3A323A1CAA723500C6A673"
+            BlueprintIdentifier = "CEF9F0C71D3342FB00D1144B"
             BuildableName = "XGScrollView.app"
             BlueprintName = "XGScrollView"
             ReferencedContainer = "container:XGScrollView.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE3A323A1CAA723500C6A673"
+            BlueprintIdentifier = "CEF9F0C71D3342FB00D1144B"
             BuildableName = "XGScrollView.app"
             BlueprintName = "XGScrollView"
             ReferencedContainer = "container:XGScrollView.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CE3A323A1CAA723500C6A673"
+            BlueprintIdentifier = "CEF9F0C71D3342FB00D1144B"
             BuildableName = "XGScrollView.app"
             BlueprintName = "XGScrollView"
             ReferencedContainer = "container:XGScrollView.xcodeproj">

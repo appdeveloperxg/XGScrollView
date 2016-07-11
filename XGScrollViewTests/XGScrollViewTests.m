@@ -2,7 +2,7 @@
 //  XGScrollViewTests.m
 //  XGScrollViewTests
 //
-//  Created by user on 16/3/29.
+//  Created by user on 16/7/11.
 //  Copyright © 2016年 郭晓广. All rights reserved.
 //
 
